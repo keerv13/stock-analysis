@@ -1,4 +1,4 @@
-# StockPilot AI
+# Stock Analysis AI
 
 StockPilot AI is a portfolio project for exploring three Bursa Malaysia stocks—Maybank, MR D.I.Y., and Tenaga Nasional—and asking questions about their FY2025 annual reports.
 
