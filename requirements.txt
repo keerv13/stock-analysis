@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+python-dotenv
+pymupdf
+azure-core
+azure-identity
+azure-search-documents
+azure-ai-projects
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters

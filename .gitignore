@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+#py
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+assets/reports/*.pdf
